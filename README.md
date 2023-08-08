@@ -1,8 +1,9 @@
-### Hi everybody! I'm Thiago Abreu
+### Hi everybody! I'm Thiago Abreu , Software engineer Intern ! 
 
 - 🔭 I'm currently working on back-end 
 - 🌱 I’m currently learning Java
 - 🤔 I’m computer engineering student
+  
 
 
 ---
@@ -19,4 +20,4 @@
   ![Snake animation](https://github.com/ThiagoAbreu9/ThiagoAbreu9/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-#TESTETESTES
+
